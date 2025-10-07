@@ -1,0 +1,16 @@
+{
+  "name": "tj-tasks-2025-saidevdhal",
+  "description": "A simple real-time chat app using Socket.IO",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
